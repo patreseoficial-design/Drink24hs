@@ -31,41 +31,22 @@ object ProductRepository {
             price = 25.00,
             stock = 8,
             alcoholic = true
-        )
+        ),
+
         Product(
             id = 5,
             name = "Pinga",
             price = 2.00,
             stock = 20,
             alcoholic = true
-        )
+        ),
+
         Product(
             id = 6,
             name = "Whisky",
             price = 25.00,
             stock = 10,
             alcoholic = true
-        )
-        Product(
-            id =7 ,
-            name = "Cigarros picado",
-            price = 2.50,
-            stock = 8,
-            Tabaco = true
-        )
-        Product(
-            id = 8,
-            name = "Cigarro",
-            price = 10.00,
-            stock = 40,
-            Tabaco = true
-        )
-        Product(
-            id = 9,
-            name = "Paiero",
-            price = 5.00,
-            stock = 60,
-            Tabaco = true
         )
     )
 
